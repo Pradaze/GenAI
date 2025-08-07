@@ -1,2 +1,2 @@
 # GenAI
-Application of Generative Adversarial Network for generating images
+Exploring GANs and their application for generating images
